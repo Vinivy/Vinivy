@@ -39,7 +39,10 @@
 
 ###
 
-<img align="right" height="150" src="./Video/Eu.mp4"  />
+<picture>
+  <source srcset="Video/Eu.mp4" type="video/mp4">
+  <video src="Video/Eu.mp4" height="150" controls loop autoplay muted></video>
+</picture>
 
 ###
 
