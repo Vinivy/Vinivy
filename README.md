@@ -38,9 +38,9 @@
 </div>
 
 ###
-
+<div align="center">
 <img src="./Video/Eu.gif" align="center" height="150">
-
+<div/>
 ###
 
 <div align="left">
